@@ -1,0 +1,16 @@
+{
+    "Items": {
+        "NCYQGB": {
+            "name": "laptop",
+            "type": "electronics",
+            "price": 999.99,
+            "id": "NCYQGB"
+        },
+        "GLXWBP": {
+            "name": "phone",
+            "type": "electronics",
+            "price": 499.99,
+            "id": "GLXWBP"
+        }
+    }
+}
